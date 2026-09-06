@@ -1,0 +1,15 @@
+# notas personales, no van al repo
+temario-completo.md
+
+# python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# modelos y datos
+*.pt
+*.pth
+*.safetensors
+data/
