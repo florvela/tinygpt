@@ -13,3 +13,7 @@ venv/
 *.pth
 *.safetensors
 data/
+
+transcripciones/
+.DS_Store
+contenido-de-las-clases/
